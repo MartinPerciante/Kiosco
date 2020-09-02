@@ -18,5 +18,3 @@ Se pide que critique el código dado en base a SRP
 
 #### ✍ Parte 2
 Aplique SRP según su crítica.
-
-
