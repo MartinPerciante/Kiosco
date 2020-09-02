@@ -1,6 +1,7 @@
 using System;
-// La clase alfajor no esta encapsulada porque se pueden cambiar los valores de los precios sin ningun criterio desde cualquier clase
-// También debería ser la clase alfajor la que calcule su propio precio total, no la clase Kiosco
+// El kiosco no cumple con el patron EXPERT porque la clase alfajor es la que debería de calcular su precio total 
+// No se cumple con el patron SRP porque la clase Kiosco tiene dos responsabilidades: la de vender alfajores y la de convertir el tipo de moneda
+
 namespace Expert_SRP
 {
     public class Kiosco 
