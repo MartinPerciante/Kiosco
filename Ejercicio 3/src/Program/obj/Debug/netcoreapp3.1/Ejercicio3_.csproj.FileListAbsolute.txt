@@ -1,0 +1,32 @@
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.exe
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.deps.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.runtimeconfig.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.AssemblyInfo.cs
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csproj.CopyComplete
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio3_\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.genruntimeconfig.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.exe
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.deps.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.runtimeconfig.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Ejercicio3_.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.AssemblyInfo.cs
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.csproj.CopyComplete
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.dll
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.pdb
+C:\Users\Administrador\Documents\GitHub\Kiosco\Ejercicio 3\src\Program\obj\Debug\netcoreapp3.1\Ejercicio3_.genruntimeconfig.cache
