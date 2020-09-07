@@ -32,7 +32,7 @@ namespace Consulta
             }
             if (isValid)
             {
-                c = $"{a}{b}La cita del señor {paciente.Nombre}\n con el doctor {doctor.Nombre}\n fue agendada correctamente agendada el {date}\n en {appointmentPlace}";
+                c = $"{a}{b}La cita del señor {paciente.Nombre}\n con el doctor {doctor.Nombre}\n fue agendada correctamente agendada el {date}\n en {clinica.Nombre}";
             }
             else
             {
