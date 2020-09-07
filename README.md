@@ -4,3 +4,5 @@ Los commit "Comentarios","Comentarios puesta en comun" y "Arreglando Ejercicio 1
 El commit "Comentarios ejercicio 2" refiere a los comentarios realizados sobre los patrones en el ejercicio 2, y el commit "Correccion Ejercicio 2" refiere a los cambios realizados para que este cumpla con los patrones
 
 El commit "Ejercicio3" refiere a todos los cambios realizados al ejercicio 3 para que cumpla con los patrones SRP y EXPERT
+
+El commit "GameOfLife CRC" agrega una cuarta carpeta al repositorio con el archivo PDF con las tarjetas CRC del juego Game of Life
