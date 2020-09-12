@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Program\\Program.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\Library.csproj": {
+    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Program\\Program.csproj": {
+    "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Program\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GameOfLife\\Library\\Library.csproj"
+              "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Kiosco\\GaneOfLifeGrupal\\Library\\Library.csproj"
               }
             }
           }
